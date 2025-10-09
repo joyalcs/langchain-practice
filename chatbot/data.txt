@@ -1,0 +1,54 @@
+1. FAQs
+
+Q: How can I reset my password?
+A: Go to Account Settings > Security > Reset Password. You’ll receive an email link to set a new one.
+
+Q: What payment methods do you accept?
+A: We accept Credit/Debit Cards, Net Banking, UPI, and Wallets (Paytm, PhonePe).
+
+Q: Can I cancel an order after placing it?
+A: Yes, you can cancel an order within 24 hours before it is shipped.
+
+2. Help Docs (Short Guides)
+
+Password Reset Guide:
+
+Click Forgot Password on the login page.
+
+Enter your registered email/phone.
+
+Follow the reset link sent to your email.
+
+Tracking Orders:
+
+Go to My Orders section.
+
+Select the order you want to track.
+
+You’ll see live tracking status (Processing → Shipped → Out for Delivery → Delivered).
+
+3. Product Guide (E-commerce Example)
+
+Return Policy for Electronics:
+
+Electronics can be returned within 7 days if unopened.
+
+Opened products can only be replaced if defective.
+
+Warranty claims must go through the manufacturer.
+
+Clothing Size Guide:
+
+Small = 36 inches chest
+
+Medium = 40 inches chest
+
+Large = 44 inches chest
+
+4. Policies
+
+Refund Policy: Refunds are processed within 7–10 business days to the original payment method.
+
+Shipping Policy: Standard delivery takes 3–5 days. Express delivery takes 1–2 days (extra charges apply).
+
+Privacy Policy: Customer data is encrypted and not shared with third parties without consent.
